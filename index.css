@@ -1,1 +1,25 @@
 /* Put your style information here! */
+body{
+    margin: 0px;
+}
+
+.banner{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategrey;
+}
+
+
+div.img{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1#heading{
+    color: salmon;
+}
+
+h2{
+    text-decoration: underline;
+}
